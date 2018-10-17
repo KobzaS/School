@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Sales Figures.cpp
+  Generating Code...
+Source.obj : error LNK2005: _main already defined in Sales Figures.obj
+c:\users\300199328\documents\visual studio 2017\Projects\SetW Application\Debug\SetW Application.exe : fatal error LNK1169: one or more multiply defined symbols found

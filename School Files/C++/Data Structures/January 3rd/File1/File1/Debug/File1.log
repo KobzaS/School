@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\300199328\desktop\january 3rd\file1\file1\source.cpp(24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  File1.vcxproj -> C:\Users\300199328\Desktop\January 3rd\File1\Debug\File1.exe
